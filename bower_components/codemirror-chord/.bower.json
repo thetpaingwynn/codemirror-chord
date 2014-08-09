@@ -1,0 +1,41 @@
+{
+  "name": "Codemirror-chord",
+  "authors": [
+    "zabudipar <thetpaingwynn@gmail.com>"
+  ],
+  "description": "Codemirror mode for guitar chords",
+  "keywords": [
+    "Codemirror",
+    "mode",
+    "guitar",
+    "chords",
+    "chords",
+    "syntax",
+    "highlighter"
+  ],
+  "license": "MIT",
+  "homepage": "doremi.zabudipar.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "codemirror": "~4.3.0"
+  },
+  "devDependencies": {
+    "bootstrap": "~3.2.0"
+  },
+  "_release": "7dc9cd19f8",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "7dc9cd19f8d1608edf9fe5d150a0a513474a288e"
+  },
+  "_source": "git://github.com/zabudipar/Codemirror-Chord.git",
+  "_target": "*",
+  "_originalSource": "codemirror-chord",
+  "_direct": true
+}

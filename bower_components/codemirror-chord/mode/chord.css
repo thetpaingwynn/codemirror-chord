@@ -1,0 +1,10 @@
+.cm-chord {
+    color: #2ea2ef;
+    margin: 2px;
+}
+#song{
+    min-height: 500px;
+}
+#song .CodeMirror{
+    height: auto;
+}

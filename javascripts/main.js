@@ -1,1 +1,6 @@
-console.log('This would be the main JS file.');
+$(function () {
+    var myCodeMirror = CodeMirror(document.getElementById("song"), {
+        mode: "chord",
+        value: "Intro: C F G/B E C Fmaj7 C G C\n\nVerse 1\n\n      C              G                Am    \nIf I had to live my life without you near me \n     G/B               F/C    C/G\nthe days would all be empty \n     F                    G  \nthe nights would seem so long \n      C            G           Am\nwith you I see forever oh so clearly\n   G/B                F/C        C/G\nI might have been in love before \n        F                 G\nbut it never felt this strong \n\n\nChorus:\n C                         F       \nNothing´s gonna change my love for you \n G                            E\nyou ought to know by now how much I love you  \nAm             D             \none thing you can be sure of \nF                    G                 \nI´ll never ask for more than your love \n C                         F           \nnothing´s gonna change my love for you \n G                            E\nyou ought to know by now how much I love you \nAm                        D           \nthe world may change my whole life too \nF                     G                 C    \nbut nothing's gonna change my love for you"
+    });
+})

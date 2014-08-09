@@ -73,7 +73,7 @@ header {
 
 header h1 {
   letter-spacing: -1px;
-  font-size: 72px;
+  font-size: 64px;
   color: #fff;
   line-height: 1;
   margin-bottom: 0.2em;
@@ -470,6 +470,10 @@ footer a:hover {
     padding-right: 0;
     margin-left: 0;
   }
+}
+
+#song .CodeMirror-code pre {
+    line-height: 20px;
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
