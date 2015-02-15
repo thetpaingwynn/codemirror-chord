@@ -1,6 +1,6 @@
 {
   "name": "Codemirror-chord",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "zabudipar <thetpaingwynn@gmail.com>"
   ],
@@ -16,12 +16,19 @@
   ],
   "license": "MIT",
   "homepage": "doremi.zabudipar.com",
+  "main": [
+    "mode/chord.js",
+    "mode/chord.css"
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "js",
+    "css",
+    "index.html"
   ],
   "dependencies": {
     "codemirror": "~4.3.0"
