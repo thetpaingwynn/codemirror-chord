@@ -1,12 +1,12 @@
 {
-  "name": "Codemirror-chord",
-  "version": "0.0.3",
+  "name": "codemirror-chord",
+  "version": "0.0.4",
   "authors": [
     "zabudipar <thetpaingwynn@gmail.com>"
   ],
   "description": "Codemirror mode for guitar chords",
   "keywords": [
-    "Codemirror",
+    "codemirror",
     "mode",
     "guitar",
     "chords",
